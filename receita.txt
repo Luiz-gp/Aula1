@@ -13,6 +13,10 @@ Nome do repo: Aula1
 5. Após a conclusão do desenvolvimento, adicionar os arquivos ao repo:
 git add .
 
+
+REPETIR PASSO 5 , 6 e 7 SEMPRE QUE HOUVER ALTERAÇÃO NOS ARQUIVOS DO PROJETO.
+
+
 6. Comitar ao repositório com uma mensagem explicativa: git commit -m "Mensagem entre "" "
 
 7. Associar ao nosso repo local com o remoto
@@ -20,3 +24,5 @@ git remote add origin LINK_DO_REPO
 git branch -M main
 git push -u origin main
 *FAZER LOGIN E AUTORIZAR, SE NECESSÁRIO*
+
+git remote add origin https://github.com/Luiz-gp/Aula1
